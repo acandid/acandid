@@ -8,6 +8,7 @@
 ✅ Ansible
 ✅ Terraform
 ✅ Linux
+✅ AWX/Tower
   
 ##
  
