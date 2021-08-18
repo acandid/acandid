@@ -1,4 +1,4 @@
-### Hi I'm Almir Candido 👋
+### Hi I'm Almir Candido 🐧
 
 <div>
   <a href="https://github.com/acandid">
